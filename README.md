@@ -25,3 +25,14 @@ The main purpose of the course was to build a web application from scratch using
 To install the libraries used in this project :
 
 	npm install 
+
+## How to run the application
+Firstly you run the mongo daemon command :
+	
+	mongod
+	
+and then :
+	
+	node app.js
+	
+to start the application
