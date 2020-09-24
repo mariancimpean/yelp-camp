@@ -24,4 +24,4 @@ The main purpose of the course was to build a web application from scratch using
 ## Installation
 To install the libraries used in this project :
 
-			npm install 
+	npm install 
